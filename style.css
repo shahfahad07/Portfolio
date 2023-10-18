@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:grey;
+  
+}
+
+
+.topnav {
+   overflow: hidden;
+   background-color: #333;
+  }
+
+.topnav a {
+  float: left;
+  color: orange;
+  text-align: center;
+  padding:14px 11px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.topnav a:hover {
+  background-color:orange;
+  color: white;
+}
+
+.topnav a.active {
+  background-c: #04AA6D;
+  color:white;
+}
+ .line{
+     padding:2px;
+     background-color:orange;
+ }
+ .box{
+       
+       
+        margin-top:20px;
+        text-align:center;
+        
+    }
+   .oval{
+       border-radius:50%;
+       border: 0.1rem solid #fff;
+       hight:90px;
+       width:90px;
+   }
+   
+   .name{
+       text-align: center;
+   }
+   
+   
+    
+    section {
+    
+        padding:40px;
+        color:#fff;
+        
+    }
+    
+    section h1 {
+        color:black;
+        
+    }
+   
+    footer{
+    margin-top:20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 6px 0;
+    }
+    
+    .insta {
+  align-items: center;
+   overflow: hidden;
+   
+    }
+  
+  .insta p {
+  margin: 2px;
+  color:lightblack;
+  text-align:center;
+  font-size: 14px;
+  
+    }
+    
+    .insta a.click{
+  padding: 0px 5px;
+  margin-left: 155px;
+  background-color:#333;
+  color:#fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius:20px;
+  font-size: 14px;
+  
+    }
+    
+    .insta a:hover {
+  background-color:orange;
+  color: white;
+  }
+  
