@@ -7,15 +7,17 @@ body {
 
 
 .topnav {
-   overflow: hidden;
-   background-color: #333;
+  text-align: center;
+  overflow: hidden;
+  background-color: #333;
+  padding: 14px 0px;
   }
 
 .topnav a {
-  float: left;
+  
   color: orange;
   text-align: center;
-  padding:14px 11px;
+  padding:14px 9px;
   text-decoration: none;
   font-size: 16px;
 }
@@ -74,12 +76,12 @@ body {
     }
     
     .insta {
-  align-items: center;
+   text-align: center;
    overflow: hidden;
    
     }
   
-  .insta p {
+  .paragraph {
   margin: 2px;
   color:lightblack;
   text-align:center;
@@ -87,9 +89,8 @@ body {
   
     }
     
-    .insta a.click{
-  padding: 0px 5px;
-  margin-left: 155px;
+    .insta a{
+  padding: 0px 7px;
   background-color:#333;
   color:#fff;
   text-align: center;
